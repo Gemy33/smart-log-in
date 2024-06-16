@@ -1,0 +1,76 @@
+.main_color{
+  background-color: #24353F;
+}
+.col-8{
+  box-shadow: 2px 2px 50px rgba(0, 0, 0, 0.685) ;
+  padding: 10px 15px;
+}
+form h2
+{
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 48px;
+}
+.form-control:focus
+{
+background-color: #24353F;
+/* border-color: #24353F; */
+outline: 0;
+box-shadow: none;
+}
+.font-sana
+{  font-family: sans-serif;
+
+
+}
+.form-control
+{
+  --bs-body-bg:#24353F;
+  --bs-body-color:white;
+}
+input
+{
+  background-color: transparent !important;
+  color: white !important;
+}
+::placeholder
+{
+  color: rgba(255, 255, 255, 0.673) !important;
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 24;
+}
+.navbar a
+{
+  font-size: 20px;
+  font-family: sans-serif;
+  line-height: 30px;
+  text-decoration: none;
+  color: white;
+}
+.h2
+{
+  box-shadow: 2px 2px 50px rgba(0, 0, 0, 0.685) ;
+padding: 60px !important;
+}
+.navbar 
+{
+  padding: 10px 0;
+  box-shadow: 0px 50px 0px rgb(0, 0, 0) ;
+}
+.vh-90{
+ height: 90vh;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+
+}
+.spacific-shadow
+{
+  box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.796) ;
+
+}
