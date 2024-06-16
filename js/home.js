@@ -5,5 +5,5 @@ if(localStorage.getItem('userName')!=null)
     }
 document.querySelector('.btn').addEventListener('click',function(){
     location.href='signup.html';
-    localStorage.removeItem('username');
+    localStorage.removeItem('userName');
 })
